@@ -31,7 +31,11 @@
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
     "awilix": "^8.0.1",
-    "pg": "^8.13.0"
+    "install": "^0.13.0",
+    "npm": "^10.9.2",
+    "payment-razorpay": "file:../payment-razorpay",
+    "pg": "^8.13.0",
+    "razorpay": "^2.9.6"
   },
   "devDependencies": {
     "@medusajs/test-utils": "2.5.1",
